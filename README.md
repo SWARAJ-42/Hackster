@@ -1,4 +1,4 @@
-# Hackster - CS50X final project
+# Hackster
 
 A simple hacking application
 
